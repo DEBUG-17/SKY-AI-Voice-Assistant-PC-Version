@@ -1,6 +1,6 @@
 # SKY AI Voice Assistant – PC Version v1.0
 
-![SKY Logo](https://via.placeholder.com/600x200.png?text=SKY+AI+Voice+Assistant)
+![SKY Logo](sky_logo.png)
 
 > An AI-powered, voice-activated desktop assistant for Windows PC, designed to make your workflow faster, smarter, and hands-free.
 
@@ -49,9 +49,6 @@ Run SKY
 >python sky.py
 
 
-📸 Screenshots
-
-(Replace with actual screenshots from your project)
 
 📹 Demo Video
 🎥 YouTube Demo: Coming Soon
@@ -64,7 +61,8 @@ This project is licensed under the MIT License – feel free to use, modify, and
 Author: Suman Kumar (DEBUG-17)
 
 GitHub: DEBUG-17
-LinkedIn: Add your LinkedIn link here
+
+LinkedIn: https://www.linkedin.com/in/suman-kumar-43b3a1300/
 
 
 
