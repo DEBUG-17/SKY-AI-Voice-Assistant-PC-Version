@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+requests
+beautifulsoup4
+wikipedia
+psutil
+schedule
+openai
